@@ -1,0 +1,30 @@
+/*
+ Theme Name:   metro magazine Child
+ Template:     metro-magazine
+*/
+.site-branding .site-title{
+text-transform: none;
+}
+.youtube {
+    position: relative;
+    max-width: 100%;
+    padding-top: 56.25%;
+    margin-bottom: 50px;
+}
+.youtube iframe {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+#primary .post .entry-content h2{
+    border-left: 10px solid #386fa7;
+    border-bottom: 1px solid #386FA7;
+    padding-left: .5em;
+    padding-bottom: .3em;
+}
+#primary .post .entry-content h3{
+    border-left: 10px solid #09519a;
+    padding-left: .5em;
+}
